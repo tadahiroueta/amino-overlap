@@ -19,7 +19,7 @@ INFLVGNNGS GKSAVITALA LGLTSSARAT NRASSIQKLI KNGEVSATIS ITLSNSGLRP
 
 ## Features
 
-### Dijkstra's Algorithm
+### Longest Path Problem Algorithm
 I converted the sequences and their possible overlaps as a graph, with each sequence on an axis. The direction of the path lines represents their overlap (e.g. diagonal lines compares two elements; horizontal and vertical lines represent insertions/deletions).
 
 ![sequence-graph](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02157-2/MediaObjects/13059_2020_2157_Fig8_HTML.png)
